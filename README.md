@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashrafkvt
 - 👀 I’m interested in working on projects
-- 🌱 I’m currently learning iOS app development using Swift
 - 💞️ I’m looking to collaborate on more projects in both Python and Swift
 
 <!---
